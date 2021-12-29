@@ -1,0 +1,10 @@
+.comment {
+    background-color: orange;
+    color: whitesmoke;
+}
+
+.wrapperPost {
+    width: 400px;
+    background-color: green;
+    margin-bottom: 30px;
+ }
